@@ -1,0 +1,8 @@
+.env
+*.db
+__pycache__/
+.vscode/
+venv/
+myenv/
+output/*.xlsx
+app.log
