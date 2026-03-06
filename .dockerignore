@@ -10,3 +10,4 @@ app.log
 myenv/
 venv/
 output/
+outputs/
